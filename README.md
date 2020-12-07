@@ -18,7 +18,7 @@ We developed models to identify what drives passengers’ choice of airport and 
 
 * Data sets: 27 variables from survey data of 488 respondents
    * Airport choice: Gimpo, Incheon
-   * Airline choice: Korean Air (KE), Asiana Air (OZ), Korean LCC, Foreign Carriers
+   * Airline choice: Korean Air, Asiana Air, Korean LCC, Foreign Carriers
    * Socio-demographic: age, gender, occupation, income, etc
    * Alternative-Specific : flight information, travel time, mode of transport, etc
   
@@ -26,7 +26,7 @@ We developed models to identify what drives passengers’ choice of airport and 
 
 #### Data Mining Procedure to Identify Passengers' Behavior Pattern  
 
-* Cleaned data, analyzed descriptive statistics, and visualized Exploratory Data Analysis (EDA) utilizing Python. 
+* Cleaned data, analyzed descriptive statistics, and visualized Exploratory Data Analysis utilizing Python. 
 * Feature engineering: Re-categorizing variables
     * E.g. Airlines: Korean Carriers vs. Foreign Carriers;
     * E.g. Occupation (re-group 12 categories into 4 categories): Business, Government, Unemployment and Other). 
