@@ -24,8 +24,10 @@ We developed models to identify what drives passengers’ choice of airport and 
   
 ## Solution and Results
 
-#### A Classification Problem using Description Methods with Data Mining Models
+#### Data Mining Procedure to Identify Passengers' Behavior Pattern  
 
-* Utilized Python to develop logistic regression and decision tree model with the goal of identifying passengers’ choice behavior from the survey data of 488 respondents, yielding the accuracy rate of 72%.
-* Conducted data mining procedure including data processing, EDA, feature engineering, modelling, evaluating, and proposing recommendations to the airline companies based on passengers' behavior pattern.
+* Exploratory Data Analysis (EDA): We first analyzed descriptive statistics and cleaned data (treating outliers and missing values). We conducted feature engineering by re-categorizing variables (e.g. Airlines: Korean Carriers vs. Foreign Carriers; Occupation (re-group 12 categories into 4 categories): Business, Government, Unemployment and Other). Then we visualized EDA utilizing Python. 
+* Variables selection: Implemented iterative approach (Backward/Forward selection), conducted Correlation analysis, and used Holdout method to split dataset into training and testing set.
+* Developed logistic regression and decision tree model, yielding the accuracy rate of 84% for airport model and 72% for airline model. 
+
 
