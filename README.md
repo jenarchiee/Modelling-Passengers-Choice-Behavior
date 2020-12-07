@@ -4,7 +4,7 @@ This is my academic project. Data, codes, and report are unable to be published 
 
 ## Problem
 
-There are two international airports. One is smaller and old, but closer to the city, while the other airport is new and larger, but further from the city. We build models to identify what drives passengers’ choice of airport and airline. 
+There are two international airports. One is smaller and old, but closer to the city, while the other airport is new and larger, but further from the city. We developed models to identify what drives passengers’ choice of airport and airline. 
 
 * Data: Survey data from 488 respondents
   * Socio-demographic: age, gender, occupation, income, etc
