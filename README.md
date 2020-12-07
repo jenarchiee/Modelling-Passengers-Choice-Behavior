@@ -31,6 +31,6 @@ We developed models to identify what drives passengers’ choice of airport and 
     * E.g. Airlines: Korean Carriers vs. Foreign Carriers;
     * E.g. Occupation (re-group 12 categories down to 4 categories): Business, Government, Unemployment and Other). 
 * Variables selection: Implemented iterative approach (Backward/Forward selection), conducted Correlation analysis, and used Holdout method to split dataset into training and testing set.
-* Developed logistic regression and decision tree model, yielding the accuracy rate of 84% for airport model and 72% for airline model. 
+* Developed logistic regression and decision tree model, yielding the accuracy rate of **84%** for airport model and **72%** for airline model. 
 
 
