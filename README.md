@@ -4,7 +4,7 @@ This is my academic project. Data, codes, and report are unable to be published 
 
 ## Problem
 
-#### What drives passengers’ choice of airport and airline? 
+### What drives passengers’ choice of airport and airline? 
 
 Two international airports in Seoul Metropolitan Area: 
 * Gimpo airport: Smaller and old, but closer to the city 
@@ -24,7 +24,7 @@ We developed models to identify what drives passengers’ choice of airport and 
   
 ## Solution and Results
 
-#### Data Mining Procedure to Identify Passengers' Behavior Pattern  
+### Data Mining Procedure to Identify Passengers' Behavior Pattern  
 
 * Cleaned data, analyzed descriptive statistics, and visualized Exploratory Data Analysis utilizing Python. 
 * Feature engineering: Re-categorizing variables
