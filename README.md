@@ -24,7 +24,7 @@ We developed models to identify what drives passengers’ choice of airport and 
   
 ## Solution and Results
 
-### Data Mining Procedure to Identify Passengers' Behavior Pattern  
+### Developed Descriptive and Predictive Models to Identify Passengers' Behavior Pattern 
 
 * Cleaned data, analyzed descriptive statistics, and visualized Exploratory Data Analysis utilizing Python. 
 * Feature engineering: Re-categorizing variables
